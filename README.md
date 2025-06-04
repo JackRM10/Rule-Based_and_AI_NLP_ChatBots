@@ -10,5 +10,5 @@ Created a Rule based chat bot in python with greeting and good bye. Added a grap
 AI NLP chat bot
 
 Created a NLP chat bot using the SpaCy library.
-Created mutiple scaenarios with which to train the chat bot model.
+Created multiple scenarios with which to train the chat bot model.
 Created code to test and train model to improve efficiency.
